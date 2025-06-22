@@ -161,6 +161,7 @@ ruamel.yaml==0.18.10
 safetensors==0.5.2
 scikit-learn==1.6.1
 scipy==1.15.1
+seaborn==0.13.2
 selenium==4.28.0
 semantic-kernel==1.20.0
 Send2Trash==1.8.3
