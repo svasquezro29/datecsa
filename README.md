@@ -9,9 +9,9 @@ Desarrollar y dar solución a cada uno de los puntos que se solicitan basados en
 
 ## 📁 Estructura del proyecto
 
-── data/ # Datos crudos y procesados (no incluidos por peso)
-── notebooks/ # Análisis exploratorio y pruebas
-── outputs/ # Resultados del modelo y visualizaciones
-── requirements.txt # Dependencias del entorno
-── main.py # Script principal de ejecución
-── README.md
+├── data/ # Datos crudos y procesados (no incluidos por peso)
+├── notebooks/ # Análisis exploratorio y pruebas
+├── outputs/ # Resultados del modelo y visualizaciones
+├── requirements.txt # Dependencias del entorno
+├── main.py # Script principal de ejecución
+└── README.md
